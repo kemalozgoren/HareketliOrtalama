@@ -14,11 +14,11 @@
 
 * Verilen bir dizinin elemanlarını istenilen bir aralıkta ortalamasını alan program yapmak.
 
-* Ortalama 1000 tane veriye sahip TXT dosyası programa okutalacak.
+* Veriler, ortalama 1000 tane veriye sahip TXT dosyasından çekilecek.
 
 * Hareketli ortalaması hesaplanan veri TXT dosyasına kaydedilecek.
 
-* Veriler ise girdiğimiz örnek şeklinde hesaplanacak.
+* Veriler ise girdiğimiz örnek şeklinde hesaplanacak ve TXT dosyasına öyle kaydedilecek.
 
 ```sh
 Örnek Aralık : 3 , 3=n =>
@@ -48,4 +48,5 @@ Result[6]={18,4} // (5+7+8+18+4)/n
   -Kodlama
   
   -Hata Ayıklama
+  
   -Kullanıcı Geri Dönüşümü
