@@ -21,6 +21,8 @@
 * Veriler ise girdiğimiz örnek şeklinde hesaplanacak ve TXT dosyasına öyle kaydedilecek.
 
 ```sh
+Örnek veri: veri.txt ex:1,3,5,7,8,18,4,1,4,3,5,7...
+
 Örnek Aralık : 3 , 3=n =>
 Result[0]={1} //(1)/1
 Result[1]={2} // (1+3)/2
